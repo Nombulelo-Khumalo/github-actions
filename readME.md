@@ -60,7 +60,7 @@ You can find the workflow file under `.github/workflows/python-ci.yml`.
 ## Project Structure
 
 ```
-simple-python-project/
+github-actions/
 ├── my_app/
 │   └── math_utils.py
 ├── tests/
